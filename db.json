@@ -1,5 +1,18 @@
 {
-    "users": [{ "id": 1, "name": "Myra" }],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "c992",
+      "name": "Roman Konopelski"
+    },
+    {
+      "id": "f764",
+      "name": "Andy Waters"
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
