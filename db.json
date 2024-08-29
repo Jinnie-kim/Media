@@ -1,24 +1,29 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "name": "Myra"
-        },
-        {
-            "id": "c992",
-            "name": "Roman Konopelski"
-        },
-        {
-            "id": "f764",
-            "name": "Andy Waters"
-        }
-    ],
-    "albums": [
-        {
-            "id": "10",
-            "title": "Hiking Trip",
-            "userId": "1"
-        }
-    ],
-    "photos": []
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "c992",
+      "name": "Roman Konopelski"
+    },
+    {
+      "id": "f764",
+      "name": "Andy Waters"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": "1"
+    },
+    {
+      "id": "9cf2",
+      "userId": "1",
+      "title": "Rustic Soft Towels"
+    }
+  ],
+  "photos": []
 }
