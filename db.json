@@ -15,24 +15,9 @@
   ],
   "albums": [
     {
-      "id": "10",
-      "title": "Hiking Trip",
-      "userId": "1"
-    },
-    {
       "id": "9cf2",
       "userId": "1",
       "title": "Rustic Soft Towels"
-    },
-    {
-      "id": "1998",
-      "userId": "1",
-      "title": "Elegant Frozen Ball"
-    },
-    {
-      "id": "e9c2",
-      "userId": "1",
-      "title": "Modern Fresh Table"
     },
     {
       "id": "abe5",
@@ -63,6 +48,11 @@
       "id": "3c09",
       "userId": "c992",
       "title": "Generic Metal Hat"
+    },
+    {
+      "id": "09bf",
+      "userId": "f764",
+      "title": "Tasty Rubber Pants"
     }
   ],
   "photos": []
