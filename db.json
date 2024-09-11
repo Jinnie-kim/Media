@@ -55,5 +55,11 @@
       "title": "Tasty Rubber Pants"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "fd8c",
+      "albumId": "09bf",
+      "url": "https://loremflickr.com/150/150/abstract?lock=675"
+    }
+  ]
 }
